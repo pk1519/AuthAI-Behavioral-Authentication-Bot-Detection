@@ -340,3 +340,11 @@ The application automatically selects the best performing model from available t
 - `requirements.txt`: Python dependencies
 - `models/`: Directory containing trained ML models
 - `detections_log.csv`: Log file of all detections (created automatically)
+
+## Screenshot
+
+<img width="1915" height="863" alt="image" src="https://github.com/user-attachments/assets/d125c0c8-a37f-4f22-880f-4103daece96e" />
+<img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/d744c683-d5b5-4399-932d-21e08cea3af8" />
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/df289ae4-0f09-4bac-89c7-b76407f459f8" />
+
+
